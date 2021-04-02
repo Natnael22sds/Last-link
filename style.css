@@ -11,9 +11,9 @@
 }
 
 body {
-	background: var();
-	color: var(--red-black);
-	font-family: 'Roboto', sans-serif;
+	background: var(--red-black);
+	color: var();
+	font-family:'Roboto', sans-serif;
 }
 
 .container {
